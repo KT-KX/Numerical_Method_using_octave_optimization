@@ -1,7 +1,4 @@
 
-
-Here’s a concise and well-structured README for your Octave project:
-
 ---
 
 # Numerical Methods Project: Octave Implementation
